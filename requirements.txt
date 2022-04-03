@@ -5,7 +5,6 @@ streamlit-webcam-example
 mysql-connector-python
 pandas
 datetime
-hashlib
 collection
 pathlib
 pysqlite3 
