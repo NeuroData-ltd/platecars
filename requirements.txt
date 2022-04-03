@@ -1,0 +1,11 @@
+requests==2.27.1
+Pillow==8.3.2
+streamlit
+streamlit-webcam-example-
+mysql-connector-python
+pandas
+datetime
+hashlib
+collection
+pathlib
+pysqlite3 
